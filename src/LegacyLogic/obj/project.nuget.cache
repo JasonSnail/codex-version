@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJWNrosXyOk=",
+  "success": true,
+  "projectFilePath": "/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/LegacyLogic.vbproj",
+  "expectedPackageFiles": [
+    "/Users/jayceonchang/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/jayceonchang/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

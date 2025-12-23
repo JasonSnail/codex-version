@@ -1,0 +1,11 @@
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/bin/Debug/net8.0/LegacyLogic.deps.json
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/bin/Debug/net8.0/LegacyLogic.dll
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/bin/Debug/net8.0/LegacyLogic.pdb
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/LegacyLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/LegacyLogic.AssemblyInfoInputs.cache
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/LegacyLogic.AssemblyInfo.vb
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/LegacyLogic.vbproj.CoreCompileInputs.cache
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/LegacyLogic.dll
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/refint/LegacyLogic.dll
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/LegacyLogic.pdb
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/ref/LegacyLogic.dll

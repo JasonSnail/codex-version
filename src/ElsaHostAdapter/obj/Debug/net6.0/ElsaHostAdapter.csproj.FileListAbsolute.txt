@@ -1,0 +1,15 @@
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/ElsaHostAdapter.csproj.AssemblyReference.cache
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/ElsaHostAdapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/ElsaHostAdapter.AssemblyInfoInputs.cache
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/ElsaHostAdapter.AssemblyInfo.cs
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/ElsaHostAdapter.csproj.CoreCompileInputs.cache
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/bin/Debug/net6.0/ElsaHostAdapter.deps.json
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/bin/Debug/net6.0/ElsaHostAdapter.dll
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/bin/Debug/net6.0/ElsaHostAdapter.pdb
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/bin/Debug/net6.0/LegacyLogic.dll
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/bin/Debug/net6.0/LegacyLogic.pdb
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/ElsaHost.25A02A94.Up2Date
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/ElsaHostAdapter.dll
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/refint/ElsaHostAdapter.dll
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/ElsaHostAdapter.pdb
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net6.0/ref/ElsaHostAdapter.dll
