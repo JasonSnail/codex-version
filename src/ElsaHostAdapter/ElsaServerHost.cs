@@ -1,6 +1,7 @@
 using Elsa.Extensions;
 using Elsa.Workflows;
 using ElsaHostAdapter.Activities;
+using ElsaHostAdapter.Authentication;
 using ElsaHostAdapter.Workflows;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -11,6 +12,9 @@ using Microsoft.Extensions.Logging;
 using Elsa.EntityFrameworkCore.Extensions;
 using Elsa.EntityFrameworkCore.Modules.Management;
 using Elsa.EntityFrameworkCore.Modules.Runtime;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Claims;
 
 namespace ElsaHostAdapter;
 
@@ -25,7 +29,9 @@ public class ElsaServerHost : IElsaServerHost
             CorsAllowedOrigins = builder.Configuration[$"{ElsaServerHostOptions.SectionName}:CorsAllowedOrigins"] ?? "*",
             JwtSigningKey = builder.Configuration[$"{ElsaServerHostOptions.SectionName}:JwtSigningKey"] ?? "large-signing-key-for-signing-JWT-tokens",
             HttpBaseUrl = builder.Configuration[$"{ElsaServerHostOptions.SectionName}:HttpBaseUrl"] ?? "http://localhost:14000",
-            HttpBasePath = builder.Configuration[$"{ElsaServerHostOptions.SectionName}:HttpBasePath"] ?? "/workflows"
+            HttpBasePath = builder.Configuration[$"{ElsaServerHostOptions.SectionName}:HttpBasePath"] ?? "/workflows",
+            ApiKeyHeaderName = builder.Configuration[$"{ElsaServerHostOptions.SectionName}:ApiKeyHeaderName"] ?? "X-Api-Key",
+            AdminApiKey = builder.Configuration[$"{ElsaServerHostOptions.SectionName}:AdminApiKey"] ?? "dev-admin-api-key"
         };
 
         builder.WebHost.UseSetting(WebHostDefaults.ServerUrlsKey, options.Urls);
@@ -45,10 +51,16 @@ public class ElsaServerHost : IElsaServerHost
             {
                 identity.TokenOptions = options => options.SigningKey = "sufficiently-large-secret-signing-key"; // This key needs to be at least 256 bits long.
                 identity.UseAdminUserProvider();
+                identity.ApiKeyOptions = apiKeyOptions =>
+                {
+                    apiKeyOptions.KeyName = options.ApiKeyHeaderName;
+                    apiKeyOptions.Realm = "Elsa API";
+                    apiKeyOptions.SuppressWWWAuthenticateHeader = true;
+                };
             });
 
             // Configure ASP.NET authentication/authorization.
-            elsa.UseDefaultAuthentication(auth => auth.UseAdminApiKey());
+            elsa.UseDefaultAuthentication(auth => auth.UseApiKeyAuthorization<FixedAdminApiKeyProvider>());
 
             // Expose Elsa API endpoints.
             elsa.UseWorkflowsApi();
@@ -96,7 +108,41 @@ public class ElsaServerHost : IElsaServerHost
         // Configure web application's middleware pipeline.
         app.UseCors();
         app.UseRouting(); // Required for SignalR.
+        app.Use(async (context, next) =>
+        {
+            if (!context.Request.Headers.ContainsKey("Authorization") &&
+                context.Request.Headers.TryGetValue(options.ApiKeyHeaderName, out var apiKeyHeader))
+            {
+                var apiKey = apiKeyHeader.ToString();
+                if (!string.IsNullOrWhiteSpace(apiKey))
+                    context.Request.Headers["Authorization"] = $"ApiKey {apiKey}";
+            }
+
+            await next();
+        });
         app.UseAuthentication();
+        app.Use(async (context, next) =>
+        {
+            if (context.User?.Identity?.IsAuthenticated != true &&
+                context.Request.Headers.TryGetValue(options.ApiKeyHeaderName, out var apiKeyHeader))
+            {
+                var apiKey = apiKeyHeader.ToString();
+                if (!string.IsNullOrWhiteSpace(apiKey) && string.Equals(apiKey, options.AdminApiKey, StringComparison.Ordinal))
+                {
+                    var claims = new List<Claim>
+                    {
+                        new Claim(ClaimTypes.Name, "admin"),
+                        new Claim(ClaimTypes.Role, "Admin"),
+                        new Claim("name", "admin"),
+                        new Claim("role", "Admin")
+                    };
+                    claims.AddRange(AdminApiKeyPermissions.All.Select(permission => new Claim("permissions", permission)));
+                    context.User = new ClaimsPrincipal(new ClaimsIdentity(claims, "ApiKey"));
+                }
+            }
+
+            await next();
+        });
         app.UseAuthorization();
         app.UseWorkflowsApi(); // Use Elsa API endpoints.
         app.UseWorkflows(); // Use Elsa middleware to handle HTTP requests mapped to HTTP Endpoint activities.

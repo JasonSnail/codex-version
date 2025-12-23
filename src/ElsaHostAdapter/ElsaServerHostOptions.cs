@@ -13,5 +13,8 @@ public class ElsaServerHostOptions
     public string HttpBaseUrl { get; set; } = "http://localhost:14000";
 
     public string HttpBasePath { get; set; } = "/workflows";
-}
 
+    public string ApiKeyHeaderName { get; set; } = "X-Api-Key";
+
+    public string AdminApiKey { get; set; } = "dev-admin-api-key";
+}
