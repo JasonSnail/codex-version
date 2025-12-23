@@ -29,6 +29,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/Branding/NextGenBranding.razor]
+build_metadata.AdditionalFiles.TargetPath = QnJhbmRpbmcvTmV4dEdlbkJyYW5kaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

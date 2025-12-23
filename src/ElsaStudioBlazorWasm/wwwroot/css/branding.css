@@ -1,0 +1,37 @@
+:root {
+    --mud-palette-primary: #004aad;
+    --mud-palette-primary-text: #ffffff;
+    --mud-palette-primary-lighten: #1a66d1;
+    --mud-palette-primary-darken: #003a86;
+    --mud-palette-primary-hover: #0b5fd0;
+    --mud-palette-primary-rgb: 0, 74, 173;
+}
+
+.mud-theme-default {
+    --mud-palette-primary: #004aad;
+    --mud-palette-primary-text: #ffffff;
+    --mud-palette-primary-lighten: #1a66d1;
+    --mud-palette-primary-darken: #003a86;
+    --mud-palette-primary-hover: #0b5fd0;
+    --mud-palette-primary-rgb: 0, 74, 173;
+}
+
+.mud-primary {
+    background-color: #004aad !important;
+}
+
+.mud-primary-text {
+    color: #004aad !important;
+}
+
+.nextgen-branding {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.nextgen-branding__logo {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+}

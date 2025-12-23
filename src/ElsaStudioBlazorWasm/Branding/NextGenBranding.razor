@@ -1,0 +1,9 @@
+<div class="nextgen-branding">
+    <img class="nextgen-branding__logo" src="@LogoUrl" alt="@($"{AppName} logo")" />
+    <span class="mud-typography mud-typography-h6">@AppName</span>
+</div>
+
+@code {
+    [Parameter] public string AppName { get; set; } = string.Empty;
+    [Parameter] public string? LogoUrl { get; set; }
+}

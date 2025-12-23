@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "ElsaStudioBlazorWasm",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-ILQnv+gyO1Q6undmLLqqW3WjuhAOCaGON2wva4ev85I=",
+    "hash": "sha256-/hSfrUr1s+TE+BY0MsvP7D5PUwUIWC/XWWJN5lgwm5s=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.cs8mcre4gh.js"
@@ -1279,15 +1279,15 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "ElsaStudioBlazorWasm.wasm",
-        "name": "ElsaStudioBlazorWasm.h3alxd2uy3.wasm",
-        "integrity": "sha256-oySBuiKlFaiN8Z086vNcTUKGva9n3vTYxgIXUOmYgJQ="
+        "name": "ElsaStudioBlazorWasm.5a66g8fb36.wasm",
+        "integrity": "sha256-s7oSo9k4ogHWP3GkbwDXsCHvIZ+XF9q0T46nBotumOw="
       }
     ],
     "pdb": [
       {
         "virtualPath": "ElsaStudioBlazorWasm.pdb",
-        "name": "ElsaStudioBlazorWasm.l0fgk1zoql.pdb",
-        "integrity": "sha256-++c15G1WE9+C5S0ZoYEatBBWl9wtBXgJlLrkfJctCaA="
+        "name": "ElsaStudioBlazorWasm.a7uy1t2fd5.pdb",
+        "integrity": "sha256-ZuKbW8SRgXMearxri36Q9VCmxrBfkz2QvfBr86FfC4w="
       }
     ],
     "libraryInitializers": [

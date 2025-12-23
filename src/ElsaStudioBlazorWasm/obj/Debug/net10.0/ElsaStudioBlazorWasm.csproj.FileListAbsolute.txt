@@ -264,9 +264,6 @@
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/icudt_CJK.tjcz0u77k5.dat
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/icudt_EFIGS.tptq2av103.dat
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/icudt_no_CJK.lfu7j35m59.dat
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/ElsaStudioBlazorWasm.h3alxd2uy3.wasm
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/ElsaStudioBlazorWasm.l0fgk1zoql.pdb
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/dotnet.bh7f2paogy.js
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/blazor.webassembly.66stpp682q.js.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/Blazored.FluentValidation.x0xsecpmtx.wasm.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/Blazored.LocalStorage.12n6dz54qr.wasm.gz
@@ -523,9 +520,6 @@
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/icudt_CJK.tjcz0u77k5.dat.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/icudt_EFIGS.tptq2av103.dat.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/icudt_no_CJK.lfu7j35m59.dat.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/ElsaStudioBlazorWasm.h3alxd2uy3.wasm.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/ElsaStudioBlazorWasm.l0fgk1zoql.pdb.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/dotnet.bh7f2paogy.js.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/ElsaStudioBlazorWasm.staticwebassets.runtime.json
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/ElsaStudioBlazorWasm.staticwebassets.endpoints.json
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/ElsaStudioBlazorWasm.dll
@@ -1310,7 +1304,6 @@
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/7mv0vobh9g-{0}-qsm31zyh76-qsm31zyh76.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/hg6tu3jkx8-{0}-v2gsytzzk7-v2gsytzzk7.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/xh97s73hpo-{0}-rmwxqauhdy-rmwxqauhdy.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/0cv582dql5-{0}-m8b1b2p0dv-m8b1b2p0dv.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/n1o0qrjlr2-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/omqtwwji91-{0}-c2jlpeoesf-c2jlpeoesf.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/8mltydxtzg-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -1358,8 +1351,6 @@
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/8sdlv2buw9-{0}-vnc9dmv67p-vnc9dmv67p.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/3l2ay5af6q-{0}-66stpp682q-66stpp682q.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/3of2ln3xky-{0}-0d0vwm38cq-0d0vwm38cq.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/y8h2cpkj2e-{0}-09s6jesahl-09s6jesahl.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/o2bfg4dt4n-{0}-ulv8uf6c3b-ulv8uf6c3b.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/ot3rkwb4ly-{0}-x0xsecpmtx-x0xsecpmtx.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/z2bxvw24v7-{0}-12n6dz54qr-12n6dz54qr.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/rx10qus1vm-{0}-i33mlyw1st-i33mlyw1st.gz
@@ -1615,9 +1606,6 @@
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/gcwm7r3lbu-{0}-tjcz0u77k5-tjcz0u77k5.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/82jpx8j412-{0}-tptq2av103-tptq2av103.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/zpm5z5atla-{0}-lfu7j35m59-lfu7j35m59.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/pjoo83d5vf-{0}-h3alxd2uy3-h3alxd2uy3.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/uo0ukic7lw-{0}-l0fgk1zoql-l0fgk1zoql.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/vhmsyi6gyj-{0}-bh7f2paogy-bh7f2paogy.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/staticwebassets.build.json
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/staticwebassets.build.json.cache
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/staticwebassets.development.json
@@ -1629,3 +1617,20 @@
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/ElsaStudioBlazorWasm.pdb
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/ref/ElsaStudioBlazorWasm.dll
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/bl12eir3ww-{0}-esr9hk34iz-esr9hk34iz.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/ElsaStudioBlazorWasm.sourcelink.json
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/y8h2cpkj2e-{0}-r3qsume8hd-r3qsume8hd.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/o2bfg4dt4n-{0}-b793atx81l-b793atx81l.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/uzp40zn74t-{0}-qt3d1qwqxz-qt3d1qwqxz.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/0cv582dql5-{0}-8y6dre8iqj-8y6dre8iqj.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/1slsjjcs90-{0}-0p48cfnh4l-0p48cfnh4l.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/ku07s5a9r4-{0}-zvaq2taatv-zvaq2taatv.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/27ds4rus6g-{0}-x3gkzx8j7l-x3gkzx8j7l.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/ElsaStudioBlazorWasm.5a66g8fb36.wasm
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/ElsaStudioBlazorWasm.a7uy1t2fd5.pdb
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/dotnet.voxdy5p6uv.js
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/ElsaStudioBlazorWasm.5a66g8fb36.wasm.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/ElsaStudioBlazorWasm.a7uy1t2fd5.pdb.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/bin/Debug/net10.0/wwwroot/_framework/dotnet.voxdy5p6uv.js.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/pjoo83d5vf-{0}-5a66g8fb36-5a66g8fb36.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/uo0ukic7lw-{0}-a7uy1t2fd5-a7uy1t2fd5.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudioBlazorWasm/obj/Debug/net10.0/compressed/vhmsyi6gyj-{0}-voxdy5p6uv-voxdy5p6uv.gz

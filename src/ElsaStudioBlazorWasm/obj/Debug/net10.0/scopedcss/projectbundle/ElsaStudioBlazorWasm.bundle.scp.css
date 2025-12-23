@@ -12,6 +12,23 @@
     font-size: 1.1rem;
 }
 
+.brand-wrap[b-isdt9356he] {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    text-decoration: none;
+}
+
+.brand-logo[b-isdt9356he] {
+    width: 32px;
+    height: 32px;
+}
+
+.brand-text[b-isdt9356he] {
+    font-weight: 600;
+    letter-spacing: 0.2px;
+}
+
 .bi[b-isdt9356he] {
     display: inline-block;
     position: relative;

@@ -1285,6 +1285,7 @@
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/webcil/Microsoft.Net.Http.Headers.wasm
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/compressed/m7kgxpwkue-{0}-5i3ys70tdr-5i3ys70tdr.gz
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/compressed/o189dfatb1-{0}-iwlvl8ysqx-iwlvl8ysqx.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/compressed/kpsx7ip20u-{0}-iclh3413bs-iclh3413bs.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/compressed/s3hx19pawu-{0}-ivgmk1uqu9-ivgmk1uqu9.gz
-/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/compressed/dxsevyd2h1-{0}-9gpgb71d2o-9gpgb71d2o.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/ElsaStudio.sourcelink.json
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/compressed/kpsx7ip20u-{0}-prtrtqkr23-prtrtqkr23.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/compressed/s3hx19pawu-{0}-rxvrvl24kc-rxvrvl24kc.gz
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaStudio/obj/Debug/net8.0/compressed/dxsevyd2h1-{0}-it65kdnplg-it65kdnplg.gz

@@ -9,3 +9,4 @@
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/refint/LegacyLogic.dll
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/LegacyLogic.pdb
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/ref/LegacyLogic.dll
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/LegacyLogic/obj/Debug/net8.0/LegacyLogic.sourcelink.json

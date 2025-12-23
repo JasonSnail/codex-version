@@ -1,3 +1,4 @@
+using Elsa.Studio.Branding;
 using Elsa.Studio.Dashboard.Extensions;
 using Elsa.Studio.Shell;
 using Elsa.Studio.Shell.Extensions;
@@ -10,6 +11,7 @@ using Elsa.Studio.Login.BlazorWasm.Extensions;
 using Elsa.Studio.Login.Extensions;
 using Elsa.Studio.Login.HttpMessageHandlers;
 using Elsa.Studio.Workflows.Designer.Extensions;
+using ElsaStudioBlazorWasm.Branding;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
@@ -38,6 +40,7 @@ builder.Services.AddLoginModule();
 builder.Services.UseElsaIdentity();
 builder.Services.AddDashboardModule();
 builder.Services.AddWorkflowsModule();
+builder.Services.AddSingleton<IBrandingProvider, NextGenBrandingProvider>();
 
 
 // Build the application.

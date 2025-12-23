@@ -13,3 +13,4 @@
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net8.0/refint/ElsaHostAdapter.dll
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net8.0/ElsaHostAdapter.pdb
 /Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net8.0/ref/ElsaHostAdapter.dll
+/Users/jayceonchang/VibeCode/test-elsa-workflow/codex-version/src/ElsaHostAdapter/obj/Debug/net8.0/ElsaHostAdapter.sourcelink.json

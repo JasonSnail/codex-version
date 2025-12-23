@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("LegacyLogic"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd54db354b75399a0354bb0c1d7ba4dc8c6bb0f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("LegacyLogic"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("LegacyLogic"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
