@@ -38,7 +38,7 @@ public class ElsaServerHost : IElsaServerHost
             elsa.UseWorkflowManagement(management => management.UseEntityFrameworkCore(ef => ef.UseSqlite()));
 
             // Configure Runtime layer to use EF Core.
-            elsa.UseWorkflowRuntime(runtime => runtime.UseEntityFrameworkCore(ef => ef.UseSqlite()));
+            elsa.UseWorkflowRuntime(runtime => { });
 
             // Default Identity features for authentication/authorization.
             elsa.UseIdentity(identity =>
